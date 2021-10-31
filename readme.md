@@ -1,4 +1,4 @@
-# WireBladetest
+# wireblade
 
 <p align="center">
     <a href="https://github.com/PH7-Jack/wireblade/">
