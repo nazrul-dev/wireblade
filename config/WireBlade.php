@@ -13,7 +13,7 @@ return [
         |
     */
     'icons' => [
-        'style' => env('WIREUI_ICONS_STYLE', 'outline'),
+        'style' => env('WIREBLADE_ICONS_STYLE', 'outline'),
     ],
 
     /*
@@ -25,11 +25,11 @@ return [
         |
     */
     'modal' => [
-        'zIndex'   => env('WIREUI_MODAL_Z_INDEX', 'z-50'),
-        'maxWidth' => env('WIREUI_MODAL_MAX_WIDTH', '2xl'),
-        'spacing'  => env('WIREUI_MODAL_SPACING', 'p-4'),
-        'align'    => env('WIREUI_MODAL_ALIGN', 'start'),
-        'blur'     => env('WIREUI_MODAL_BLUR', false),
+        'zIndex'   => env('WIREBLADE_MODAL_Z_INDEX', 'z-50'),
+        'maxWidth' => env('WIREBLADE_MODAL_MAX_WIDTH', '2xl'),
+        'spacing'  => env('WIREBLADE_MODAL_SPACING', 'p-4'),
+        'align'    => env('WIREBLADE_MODAL_ALIGN', 'start'),
+        'blur'     => env('WIREBLADE_MODAL_BLUR', false),
     ],
 
     /*
