@@ -1,6 +1,6 @@
 # wireblade
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/PH7-Jack/wireblade/">
     <img src="https://img.shields.io/packagist/dt/ph7jack/wireblade" alt="Packagist Downloads" data-canonical-src="https://img.shields.io/packagist/dt/ph7jack/wireblade" style="max-width:100%;" />
     </a>
@@ -57,15 +57,15 @@ This project is created [Pedro Henrique], and it is maintained by the author wit
 
 All contributions are welcome!
 
-<br/>
+<br/> -->
 
 ## License
 
-MIT
+<!-- MIT
 
 [TALL stack]: https://tallstack.dev
 [Changelog]: https://livewire-wireblade.com/docs/changelog
 [Get Started]: https://livewire-wireblade.com/docs/get-started
 [Documentation]: https://livewire-wireblade.com
 [@ph7jack]: https://twitter.com/ph7jack
-[Pedro Henrique]: https://github.com/PH7-Jack
+[Pedro Henrique]: https://github.com/PH7-Jack -->
