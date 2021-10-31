@@ -65,8 +65,8 @@ class WireBladeServiceProvider extends ServiceProvider
     {
         Blade::directive('confirmAction', fn (string $expression) => WireBladeDirectives::confirmAction($expression));
         Blade::directive('notify', fn (string $expression) => WireBladeDirectives::notify($expression));
-        Blade::directive('wireUiScripts', fn () => WireBladeDirectives::scripts());
-        Blade::directive('wireUiStyles', fn () => WireBladeDirectives::styles());
+        Blade::directive('WireBladeScripts', fn () => WireBladeDirectives::scripts());
+        Blade::directive('WireBladeStyles', fn () => WireBladeDirectives::styles());
         Blade::directive('boolean', fn ($value) => WireBladeDirectives::boolean($value));
     }
 

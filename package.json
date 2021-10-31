@@ -2,8 +2,8 @@
     "name": "wireblade",
     "version": "1.0.0",
     "description": "Livewire ui components with tailwind base style",
-    "repository": "git@github.com:PH7-Jack/wireblade.git",
-    "author": "PH7-Jack <pedrolivertwd@gmail.com>",
+    "repository": "git@github.com:nazrul-dev/wireblade.git",
+    "author": "Nazrul <nazrul.dev@gmail.com>",
     "license": "MIT",
     "scripts": {
         "lint": "eslint . --ext .ts",
